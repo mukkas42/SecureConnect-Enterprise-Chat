@@ -1,0 +1,24 @@
+[2026-05-13T04:50:30.940Z] Phone number is already registered but the account could not be found. Please try again.
+Error: Phone number is already registered but the account could not be found. Please try again.
+    at POST (D:/HARSHITHA_PROJECTS/AI/securechat-web/src/routes/api/auth/verify-sms/+server.js:214:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async render_endpoint (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/endpoint.js:55:20)
+    at async resolve (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/respond.js:470:23)
+    at async fn (file:///D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/exports/hooks/sequence.js:102:13)
+    at async fn (file:///D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/exports/hooks/sequence.js:102:13)
+    at async fn (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/respond.js:335:16)
+    at async internal_respond (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/respond.js:316:22)
+    at async file:///D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/exports/vite/dev/index.js:545:22
+
+[2026-05-13T04:51:25.523Z] Phone number is already registered but the account could not be found. Please try again.
+Error: Phone number is already registered but the account could not be found. Please try again.
+    at POST (D:/HARSHITHA_PROJECTS/AI/securechat-web/src/routes/api/auth/verify-sms/+server.js:214:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async render_endpoint (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/endpoint.js:55:20)
+    at async resolve (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/respond.js:470:23)
+    at async fn (file:///D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/exports/hooks/sequence.js:102:13)
+    at async fn (file:///D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/exports/hooks/sequence.js:102:13)
+    at async fn (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/respond.js:335:16)
+    at async internal_respond (D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/runtime/server/respond.js:316:22)
+    at async file:///D:/HARSHITHA_PROJECTS/AI/securechat-web/node_modules/@sveltejs/kit/src/exports/vite/dev/index.js:545:22
+
